@@ -1,4 +1,4 @@
-# ramya<h1 align="center">Hi 👋, I'm Ramya Nuthakki</h1>
+<h1 align="center">Hi 👋, I'm Ramya Nuthakki</h1>
 <h3 align="center">
 🎓 CS Student | 💻 Developer | 🌱 Learning Enthusiast </h3>
 <div align="center">
