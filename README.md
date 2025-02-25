@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramya Nuthakki</h1>
-<h3 align="center">
-🎓 CS Student | 💻 Developer | 🌱 Learning Enthusiast </h3>
+<h3 align="center">💻 Full Stack Developer </h3>
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
