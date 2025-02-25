@@ -3,26 +3,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kpooja0823&label=Profile%20views&color=0e75b6&style=flat" alt="kpooja0823" /> </p>
-
-- 🔭 I’m currently working on **Something Cool 😉**
-
-- 🌱 I’m currently learning **Robotic Process Automation, Devops**
-  
-- 👨‍💻 All of my projects are available at [https://poojakamshetty.vercel.app/](https://poojakamshetty.vercel.app/)
-
-- 💬 Ask me about **DSA , .Net , Java , Spring Boot**
-
-- 📫 How to reach me **kamshettypooja05@gmail.com**
-  
-- ⚡ Fun fact: **I love to attend Meetups for learning & Conferences for Networking**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pooja-kamshetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pooja-kamshetty/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kpooja0823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kpooja0823" height="30" width="40" /></a>
+📫 How to reach me **rnthakki26@gmail.com**
+<a href="https://www.linkedin.com/in/ramyanuthakki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramyanuthakki/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> 💻 Technical Skills </h3>
@@ -40,6 +25,3 @@
 | UI/UX | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white) |
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kpooja0823&show_icons=true&locale=en&layout=compact" alt="kpooja0823" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kpooja0823&show_icons=true&locale=en" alt="kpooja0823" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kpooja0823&" alt="kpooja0823" /></p>
